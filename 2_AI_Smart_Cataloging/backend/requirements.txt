@@ -1,0 +1,18 @@
+# FastAPI and web framework
+fastapi>=0.85.0
+uvicorn[standard]>=0.18.0
+
+# Image processing
+Pillow>=9.0.0
+
+# HTTP client
+httpx>=0.23.0
+
+# Data validation
+pydantic>=1.10.0
+
+# CORS support
+python-multipart>=0.0.5
+
+# Utilities
+python-dotenv>=0.19.0
