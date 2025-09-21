@@ -1,3 +1,15 @@
+# Project Submission
+
+## 📄 Documentation
+[Submission Document](https://docs.google.com/document/d/11RIfpRXUhzkKLIMXDbNRZ9iUPURvbP3w/edit?usp=sharing&ouid=113652095043075282603&rtpof=true&sd=true)
+
+## 🎥 Video Demonstration
+[Watch Video](https://drive.google.com/file/d/1X_QlkAb_3QQIOnd-uVbVtlxfJsFH2GDL/view?usp=sharing)
+
+## 🎨 Poster (Figma)
+[Figma Poster Link](https://www.figma.com/proto/zyYujV00JAzLOsdggBaIru/IBM-Poster--Copy-?node-id=0-1&t=MW6BAKwspxBLRntk-1)
+
+
 # Meesho Seller Platform Enhancement Suite
 
 ## 🚀 Project Overview
@@ -148,4 +160,5 @@ This project is proprietary and confidential. All rights reserved.
 **Built with ❤️ for Meesho's Seller Community**
 
 *Transforming e-commerce through intelligent automation*
+
 
