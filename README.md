@@ -112,7 +112,7 @@ pip install -r requirements.txt
 | Catalog QC Time | 100% Manual | 80% Automated |
 | Product Listing Time | 15-20 min | 5-7 min |
 | Pricing Accuracy | 60% | 85% |
-| Support Accessibility | English Only | 12+ Languages |
+| Support Accessibility | 7 languages | 12+ Languages |
 | Seller Satisfaction | 7.2/10 | 9.0/10 |
 
 ## 🎯 Implementation Roadmap
@@ -148,3 +148,4 @@ This project is proprietary and confidential. All rights reserved.
 **Built with ❤️ for Meesho's Seller Community**
 
 *Transforming e-commerce through intelligent automation*
+
