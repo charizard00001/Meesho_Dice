@@ -1,6 +1,6 @@
 # Project Submission
 
-## 📄 Documentation
+## 📃 Documentation
 [Submission Document](https://docs.google.com/document/d/11RIfpRXUhzkKLIMXDbNRZ9iUPURvbP3w/edit?usp=sharing&ouid=113652095043075282603&rtpof=true&sd=true)
 
 ## 🎥 Video Demonstration
@@ -9,18 +9,31 @@
 ## 🎨 Poster (Figma)
 [Figma Poster Link](https://www.figma.com/proto/zyYujV00JAzLOsdggBaIru/IBM-Poster--Copy-?node-id=0-1&t=MW6BAKwspxBLRntk-1)
 
+## 📊 Flow Diagrams
+[Access Here](https://docs.google.com/document/d/1z8XOyrJPXTRp_kK7jCW6F0kEko-nsz-7m85vTn5Oc50/edit?usp=sharing)
+
 
 # Meesho Seller Platform Enhancement Suite
 
-## 🚀 Project Overview
+## Project Overview
 
 This repository contains a comprehensive suite of AI-powered solutions designed to revolutionize Meesho's seller platform. Our proposal addresses five critical pain points that currently impact seller productivity, product discoverability, and overall platform efficiency.
 
-## 📋 Executive Summary
+## Stakeholder Impact
+
+**Sellers**: Faster onboarding, reduced errors, better pricing insights, and accessible multilingual support will directly boost productivity and profitability.
+
+**Buyers**: Improved product categorization and quality control reduce mismatches, ensuring better shopping experiences and fewer returns.
+
+**Meesho Platform**: Increased operational efficiency, higher seller retention, reduced support load, and improved marketplace trust.
+
+**Ecosystem Partners (Logistics & Payment)**: More accurate listings and pricing lead to smoother fulfillment, reduced disputes, and faster settlements.
+
+## Executive Summary
 
 The Meesho Seller Platform Enhancement Suite leverages cutting-edge machine learning, computer vision, and natural language processing technologies to create an intelligent, automated ecosystem that empowers sellers to focus on what matters most - growing their business.
 
-## 🎯 Key Benefits
+## Key Benefits
 
 - **Automated Quality Control**: Reduce manual QC overhead by 80%
 - **Intelligent Cataloging**: Cut product listing time by 70%
@@ -93,41 +106,8 @@ The Meesho Seller Platform Enhancement Suite leverages cutting-edge machine lear
 - **OpenCV/PIL**: Image processing
 - **spaCy/NLTK**: Natural language processing
 
-## 🚀 Getting Started
 
-Each sub-project is self-contained with its own setup instructions. Navigate to individual project directories for detailed implementation guides.
-
-### Prerequisites
-- Python 3.9 or higher
-- Node.js 16+ (for frontend components)
-- Git
-
-### Quick Setup
-```bash
-# Clone the repository
-git clone <repository-url>
-cd meesho_dice
-
-# Navigate to any sub-project
-cd 1_Automated_Catalog_QC
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Follow project-specific README for detailed setup
-```
-
-## 📊 Expected Impact
-
-| Metric | Current State | Target Improvement |
-|--------|---------------|-------------------|
-| Catalog QC Time | 100% Manual | 80% Automated |
-| Product Listing Time | 15-20 min | 5-7 min |
-| Pricing Accuracy | 60% | 85% |
-| Support Accessibility | 7 languages | 12+ Languages |
-| Seller Satisfaction | 7.2/10 | 9.0/10 |
-
-## 🎯 Implementation Roadmap
+## Implementation Roadmap
 
 ### Phase 1 (Months 1-2)
 - Automated Catalog Quality Check
@@ -141,24 +121,16 @@ pip install -r requirements.txt
 - Vernacular AI Chatbot
 - Integration and Testing
 
-## 📈 Success Metrics
+## Success Metrics
 
 - **Technical**: Model accuracy, API response times, system uptime
 - **Business**: Seller adoption rate, listing quality improvement, support ticket reduction
 - **User Experience**: Time-to-value, user satisfaction scores, feature utilization
 
-## 🤝 Contributing
-
-This is a proposal repository showcasing technical architecture and implementation strategies. Each sub-project includes detailed documentation and code prototypes demonstrating the proposed solutions.
-
-## 📄 License
-
-This project is proprietary and confidential. All rights reserved.
-
 ---
 
 **Built with ❤️ for Meesho's Seller Community**
 
-*Transforming e-commerce through intelligent automation*
+
 
 
